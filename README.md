@@ -22,14 +22,13 @@
 <code><img
     height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/192px-Android_Studio_icon_%282023%29.svg.png?20230919062400"></code><code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png"></code><code><img
     height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png"></code><code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519"></code><code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png?20210214224138"></code>
-<code><img height="35" src="https://www.svgrepo.com/show/354202/postman-icon.svg"></code>
 
 <code><img
     height="35" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></code><code><img
     height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"></code><code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"></code><code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"></code>
 
 <code><img
-    height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"></code><code><img
+    height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"></code><code><img height="35" src="https://www.svgrepo.com/show/354202/postman-icon.svg"></code><code><img
     height="35" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg"></code>
 
     
