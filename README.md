@@ -1,8 +1,4 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Hello!
-<p align="center">
-
-  <img src="https://media1.tenor.com/m/EuxZG-94g_AAAAAd/joost-joost-klein.gif" height="200" />
-</p>
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> ~Привет!
 
