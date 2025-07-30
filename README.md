@@ -31,7 +31,7 @@
     
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nellmory&exclude_repo=)
-## Works
+## Projects
 <details open> 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
