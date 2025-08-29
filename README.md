@@ -36,6 +36,7 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
+      <a href="https://github.com/Nellmory/Pokemon_App"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nellmory&repo=Pokemon_App&description_lines_count=3&locale=ru" alt="Pokemon_App"></a>
     <a href="https://github.com/Nellmory/Car_Sharing_App"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nellmory&repo=Car_Sharing_App&description_lines_count=3&locale=ru" alt="Car_Sharing_App"></a>
       <a href="https://github.com/Nellmory/Glimpse_Frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nellmory&repo=Glimpse_Frontend&description_lines_count=3&locale=ru" alt="Glimpse_Frontend"></a>
     <a href="https://github.com/Nellmory/Glimpse_Backend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nellmory&repo=Glimpse_Backend&description_lines_count=3&locale=ru" alt="Glimpse_Backend"></a>
