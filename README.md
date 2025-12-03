@@ -10,7 +10,7 @@
 ## Languages and tools
 
 <code><img
-    height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png"></code><code><img
+    height="35" src="https://www.svgrepo.com/show/373728/kotlin.svg"></code><code><img
     height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png?20250701090410"></code><code><img
     height="35" src="https://img.icons8.com/?size=512&id=7AFcZ2zirX6Y&format=png"></code><code><img
     height="35" src="https://cdn.iconscout.com/icon/free/png-256/free-flutter-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-3-pack-logos-icons-2944876.png"></code><code><img height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"></code><code><img
